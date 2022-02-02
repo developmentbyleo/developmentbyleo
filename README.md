@@ -1,13 +1,11 @@
-### Hi, i`m Leo! 👋🏻
-
-Here are some ideas to get you started:
+### Hi, i'm Leo! A frontend developer! 👋🏻
 
 - 🔭 I’m currently working on El Quarto.
 - 🌱 I’m currently learning Redux, TypeScript and Node.js for backend purpose.
 - 👯 I’m looking to collaborate on projects that can help people in some way.
 - 💬 Ask me about anything!
 - 📫 How to reach me: contatoleoujo@gmail.com
-- ⚡ Fun fact: I'm a huge anime fan.
+- ⚡ Fun fact: I'm a huge Shingeki no Kyojin fan.
 
 <div align="center">
   <a href="https://github.com/leoujo">
@@ -21,9 +19,6 @@ Here are some ideas to get you started:
   <img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-
- 
 </div>
   
   ##

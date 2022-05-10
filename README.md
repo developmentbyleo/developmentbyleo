@@ -1,4 +1,4 @@
-### Hi, i'm Leo! A frontend developer and a tech youtuber! 👋🏻
+### Let's share some knowledge!
 
 - 🔭 I’m currently working on El Quarto.
 - 🌱 I’m currently learning Redux, TypeScript and Node.js for backend purpose.

@@ -1,4 +1,4 @@
-### Let's share some knowledge!
+### Hi, i'm Leo!
 
 - 🔭 I’m currently working on Amo Promo.
 - 🌱 I’m currently learning about Node.js for backend purpose.

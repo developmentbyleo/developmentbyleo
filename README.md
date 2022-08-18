@@ -1,8 +1,8 @@
 ### Let's share some knowledge!
 
-- 🔭 I’m currently working on El Quarto.
-- 🌱 I’m currently learning Redux, TypeScript and Node.js for backend purpose.
-- 👯 I’m looking to collaborate on projects that can help people in some way.
+- 🔭 I’m currently working on Amo Promo.
+- 🌱 I’m currently learning about Node.js for backend purpose.
+- 👯 I’m looking to collaborate on projects that makes peoples's life easier.
 - 💬 Ask me about anything!
 - 📫 How to reach me: contatoleoujo@gmail.com
 - ⚡ Fun fact: I'm a huge Shingeki no Kyojin fan.

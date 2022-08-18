@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects that makes peoples's life easier.
 - 💬 Ask me about anything!
 - 📫 How to reach me: contatoleoujo@gmail.com
-- ⚡ Fun fact: I'm a huge Shingeki no Kyojin fan.
+- ⚡ Fun fact: I have a youtube channel.
 
 <div align="center">
   <a href="https://github.com/leoujo">

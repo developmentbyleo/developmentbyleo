@@ -1,7 +1,7 @@
 ### Hi, i'm Leo!
 
 - 🔭 I’m currently working in Element14.
-- 🌱 I’m learning about Django and Django ninja, for backend purpose.
+- 🌱 I’m learning about Django and Nest.
 - 👯 I’m looking to collaborate on projects that makes peoples's life easier.
 - 💬 Ask me about anything!
 - 📫 How to reach me: contatoleoujo@gmail.com

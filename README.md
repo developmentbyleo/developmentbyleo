@@ -24,4 +24,4 @@ I'm a software engineer based in Brazil passionate about using technology to cre
 [<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%230064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>](https://www.postgresql.org/) 
 
 ## 📈 Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoujo&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoujo&theme=default)

@@ -12,7 +12,8 @@ I'm a Full Stack developer based in Brazil.
   
 ### Backend 
 * TypeScript
-* Node, Nest, Postgres
+* Node, Nest, JWT
+* Postgres, MongoDB
 
 ### Others
 * AWS (S3, Lambda, SQS, Parameters, ...)

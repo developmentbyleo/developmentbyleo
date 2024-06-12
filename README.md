@@ -24,7 +24,7 @@ Yes, I love JavaScript 😅
 ## 😎 Showcase project
 Currently I'm building my own startup called "Northe AI" using the stack above.
 <br>
-This startup helps customer to leverage generative ai to create unique avatars.
+This startup helps customer to leverage generative AI to create unique avatars.
 <br>
 Note: This project is private, but reach out if you wanna take a look!
 

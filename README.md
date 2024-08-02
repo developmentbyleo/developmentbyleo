@@ -22,9 +22,7 @@ I'm a Full Stack developer based in Brazil.
 Yes, I love JavaScript 😅
 
 ## 😎 Showcase project
-Currently I'm building my own startup called "Northe AI" using the stack above.
-<br>
-This startup helps customer to leverage generative AI to create unique avatars.
+Currently I'm building my own startup called "Northe" using the stack above.
 <br>
 Note: This project is private, but reach out if you wanna take a look!
 

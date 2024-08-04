@@ -22,7 +22,7 @@ I'm a Full Stack developer based in Brazil.
 Yes, I love JavaScript 😅
 
 ## 😎 Showcase project
-Currently I'm building my own startup called "Northe" using the stack above.
+Currently I'm building my own startup called "Northe", using the stack above.
 <br>
 Note: This project is private, but reach out if you wanna take a look!
 

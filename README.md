@@ -20,6 +20,3 @@ I'm a Full Stack developer based in Brazil.
 * Design Patterns, Clean Architecture, SOLID principles.
 
 Yes, I love JavaScript 😅
-
-## 📈 Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoujo&theme=default)

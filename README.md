@@ -18,5 +18,3 @@ I'm a Full Stack developer based in Brazil.
 ### Others
 * AWS (S3, Lambda, SQS, Parameters, ...)
 * Design Patterns, Clean Architecture, SOLID principles.
-
-Yes, I love JavaScript 😅

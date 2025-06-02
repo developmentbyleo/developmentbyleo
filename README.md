@@ -4,17 +4,20 @@ I'm a Full Stack developer based in Brazil.
 
 ## 👨🏻‍💻 My primary stack
 
-### Frontend 
-* HTML, CSS, JavaScript, TypeScript
-* React, Next, Zustand, Jest
-* Vue, Nuxt, Pinia
+Frontend
+- HTML, CSS, JavaScript, TypeScript
+- React, Vue, Next, Nuxt
+- Zustand, Redux, Pinia
+- React Hook Form, Zod
+- Jest, Playwright, Cypress
 
-  
-### Backend 
-* TypeScript
-* Node, Nest, JWT
-* Postgres, MongoDB
+Backend
+- JavaScript and TypeScript
+- Node, Express, Nest
+- MongoDB, PostgreSQL, SQL
+- Jest, Cypress, React Testing Library
+- Clean Architecture, Design Patterns
 
-### Others
-* AWS (S3, Lambda, SQS, Parameters, ...)
-* Design Patterns, Clean Architecture, SOLID principles.
+Devops
+- Docker, Docker Compose
+- AWS services (Lambda, Cognito, DynamoDB, S3, CloudWatch, SQS and SNS)
